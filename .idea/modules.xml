@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RutasProyect.iml" filepath="$PROJECT_DIR$/RutasProyect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rutas-proyect.iml" filepath="$PROJECT_DIR$/rutas-proyect.iml" />
     </modules>
   </component>
 </project>
