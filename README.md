@@ -11,3 +11,6 @@ Aplicación en Java con interfaz gráfica que permite explorar y visualizar la e
 - Omite el contenido interno de la carpeta `.git/`, pero muestra su nombre.
 - Compatible con Linux, Windows y macOS.
 
+## Ejecutar
+Para ejecutar en terminal, usar el siguiente comando  
+```java -jar dir-tree-gui.jar```
