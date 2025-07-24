@@ -8,7 +8,8 @@ Aplicación en Java con interfaz gráfica que permite explorar y visualizar la e
 - Muestra toda la estructura en forma de árbol, con indentación.
 - Incluye carpetas y archivos ocultos (como `.git`, `.env`, etc.).
 - Las carpetas terminan con una barra `/` para mayor claridad.
-- Omite el contenido interno de la carpeta `.git/`, pero muestra su nombre.
+- Omite el contenido interno de las carpetas ignoradas, pero muestra su nombre.
+- Se puede agregar, ver y eliminar carpetas ignoradas.
 - Compatible con Linux, Windows y macOS.
 
 ## Ejecutar
